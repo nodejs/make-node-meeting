@@ -2,6 +2,8 @@
 
 **Generate a text for a GitHub issue announcing a Node.js working group meeting**
 
+[![NPM](https://nodei.co/npm/make-node-meeting.png)](https://nodei.co/npm/make-node-meeting/)
+
 Given a working group "code", produce Markdown-formatted issue text for that working group. The code is used to load a configuration file as `~/.make-node-meeting/code.sh` which contains settings required for customising the text.
 
 The configuration file must contain:
