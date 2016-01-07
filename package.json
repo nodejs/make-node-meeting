@@ -1,0 +1,19 @@
+{
+  "name": "make-node-meeting",
+  "version": "1.0.0",
+  "description": "Generate a text for a GitHub issue announcing a Node.js working group meeting",
+  "main": "index.js",
+  "author": "Rod <rod@vagg.org> (http://r.va.gg/)",
+  "license": "MIT",
+  "bin": {
+    "make-node-meeting": "./make-node-meeting.sh"
+  },
+  "dependencies": {
+    "node-meeting-agenda": "~1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvagg/make-node-meeting.git"
+  },
+  "preferGlobal": true
+}
