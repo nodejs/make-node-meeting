@@ -61,12 +61,17 @@ Node.js Foundation $GROUP_NAME Meeting $utc_short
 
 **UTC $(TZ=UTC date --date="$meeting_date" +"$common_fmt")**:
 
-* San Francisco: $(TZ=America/Los_Angeles date --date="$meeting_date" +"$common_fmt")
-* New York: $(TZ=America/New_York date --date="$meeting_date" +"$common_fmt")
-* Amsterdam: $(TZ=Europe/Amsterdam date --date="$meeting_date" +"$common_fmt")
-* Moscow: $(TZ=Europe/Moscow date --date="$meeting_date" +"$common_fmt")
-* Sydney: $(TZ=Australia/Sydney date --date="$meeting_date" +"$common_fmt")
-* Tokyo: $(TZ=Asia/Tokyo date --date="$meeting_date" +"$common_fmt")
+| Timezone      | Date/Time             |
+|---------------|-----------------------|
+| US / Pacific  | $(TZ=US/Pacific date --date="$meeting_date" +"$common_fmt") |
+| US / Mountain | $(TZ=US/Mountain date --date="$meeting_date" +"$common_fmt") |
+| US / Central  | $(TZ=US/Central date --date="$meeting_date" +"$common_fmt") |
+| US / Eastern  | $(TZ=US/Eastern date --date="$meeting_date" +"$common_fmt") |
+| Amsterdam     | $(TZ=Europe/Amsterdam date --date="$meeting_date" +"$common_fmt") |
+| Berlin        | $(TZ=Europe/Berlin date --date="$meeting_date" +"$common_fmt") |
+| Moscow        | $(TZ=Europe/Moscow date --date="$meeting_date" +"$common_fmt") |
+| Tokyo         | $(TZ=Asia/Tokyo date --date="$meeting_date" +"$common_fmt") |
+| Sydney        | $(TZ=Australia/Sydney date --date="$meeting_date" +"$common_fmt") |
 
 Or in your local time:
 * http://www.timeanddate.com/worldclock/fixedtime.html?msg=Node.js+Foundation+$(node -p 'encodeURIComponent("'"${GROUP_NAME}"'")')+Meeting+${utc_short}&iso=$(TZ=UTC date --date="$meeting_date" +"%Y%m%dT20")
