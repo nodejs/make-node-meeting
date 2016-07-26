@@ -86,7 +86,7 @@ Or in your local time:
 
 Extracted from **${GROUP_CODE}-agenda** labelled issues and pull requests from the **nodejs org** prior to the meeting.
 
-$(node ${__dirname}/node-meeting-agenda.js ${GROUP_CODE}-agenda)
+`node ${__dirname}/node-meeting-agenda.js ${GROUP_CODE}-agenda`
 
 ## Invited
 
