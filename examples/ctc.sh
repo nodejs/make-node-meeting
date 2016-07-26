@@ -13,7 +13,6 @@ INVITEES="\
 * James M Snell @jasnell (CTC)
 * Josh Gavant @joshgav (observer/Microsoft)
 * Michael Dawson @mhdawson (CTC)
-* Myles Borins @TheAlphaNerd (observer)
 * Julien Gilli @misterdjules (CTC)
 * Mikeal Rogers @mikeal (observer/Node.js Foundation)
 * Brian White @mscdex (CTC)
@@ -24,6 +23,7 @@ INVITEES="\
 * Seth Thompson @s3ththompson (observer/Google)
 * Shigeki Ohtsu @shigeki (CTC)
 * Steven R Loomis @srl295 (observer/IBM/ICU)
+* Myles Borins @TheAlphaNerd (observer)
 * Trevor Norris @trevnorris (CTC)
 * Rich Trott @Trott (CTC)
 "
