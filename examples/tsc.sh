@@ -18,6 +18,7 @@ INVITEES="\
 * Shigeki Ohtsu @shigeki (TSC)
 * Trevor Norris @trevnorris (TSC)
 * William Kapke @williamkapke (observer)
+* Jenn Turner @renrutnnej (observer)
 "
 JOINING_INSTRUCTIONS="Uberconference; participants should have the link & numbers, contact me if you don't.
 
