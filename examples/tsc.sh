@@ -19,6 +19,7 @@ INVITEES="\
 * Trevor Norris @trevnorris (TSC)
 * William Kapke @williamkapke (observer)
 * Jenn Turner @renrutnnej (observer)
+* Tracy Hinds @hackygolucky(observer/Node.js Foundation)
 "
 JOINING_INSTRUCTIONS="Uberconference; participants should have the link & numbers, contact me if you don't.
 
