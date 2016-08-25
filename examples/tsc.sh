@@ -12,7 +12,6 @@ INVITEES="\
 * Julien Gilli @misterdjules (TSC)
 * Mikeal Rogers @mikeal (observer/Node.js Foundation)
 * Brian White @mscdex (TSC)
-* Alexis Campailla @orangemocha (TSC)
 * Bert Belder @piscisaureus (TSC)
 * Rod Vagg @rvagg (TSC)
 * Shigeki Ohtsu @shigeki (TSC)

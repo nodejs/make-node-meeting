@@ -17,8 +17,6 @@ INVITEES="\
 * Mikeal Rogers @mikeal (observer/Node.js Foundation)
 * Brian White @mscdex (CTC)
 * Ali Ijaz Sheikh @ofrobots (CTC)
-* Alexis Campailla @orangemocha (CTC)
-* Bert Belder @piscisaureus (CTC)
 * Rod Vagg @rvagg (CTC)
 * Seth Thompson @s3ththompson (observer/Google)
 * Shigeki Ohtsu @shigeki (CTC)
