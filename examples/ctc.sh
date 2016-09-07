@@ -1,7 +1,7 @@
 GROUP_NAME="Core Technical Committee (CTC)"
 MEETING_TIME="Wednesday 8pm"
 INVITEES="\
-* Anna Henningsen @addaleax (observer)
+* Anna Henningsen @addaleax (CTC)
 * Bradley Meck @bmeck (observer/GoDaddy/TC39)
 * Ben Noordhuis @bnoordhuis (CTC)
 * Сковорода Никита Андреевич @ChALkeR (CTC)
@@ -9,6 +9,7 @@ INVITEES="\
 * Colin Ihrig @cjihrig (CTC)
 * Evan Lucas @evanlucas (CTC)
 * Jeremiah Senkpiel @Fishrock123 (CTC)
+* Tracy Hinds @hackygolucky (observer/Node.js Foundation)
 * Fedor Indutny @indutny (CTC)
 * James M Snell @jasnell (CTC)
 * Josh Gavant @joshgav (observer/Microsoft)
@@ -17,11 +18,12 @@ INVITEES="\
 * Mikeal Rogers @mikeal (observer/Node.js Foundation)
 * Brian White @mscdex (CTC)
 * Ali Ijaz Sheikh @ofrobots (CTC)
+* Jenn Turner @renrutnnej (observer/Node.js Foundation)
 * Rod Vagg @rvagg (CTC)
 * Seth Thompson @s3ththompson (observer/Google)
 * Shigeki Ohtsu @shigeki (CTC)
 * Steven R Loomis @srl295 (observer/IBM/ICU)
-* Myles Borins @TheAlphaNerd (observer)
+* Myles Borins @TheAlphaNerd (CTC)
 * Trevor Norris @trevnorris (CTC)
 * Rich Trott @Trott (CTC)
 "
