@@ -9,7 +9,6 @@ INVITEES="\
 * Fedor Indutny @indutny (TSC)
 * James M Snell @jasnell (TSC)
 * Josh Gavant @joshgav (observer/Microsoft)
-* Julien Gilli @misterdjules (TSC)
 * Mikeal Rogers @mikeal (observer/Node.js Foundation)
 * Brian White @mscdex (TSC)
 * Bert Belder @piscisaureus (TSC)
@@ -19,8 +18,12 @@ INVITEES="\
 * William Kapke @williamkapke (observer)
 * Jenn Turner @renrutnnej (observer)
 * Tracy Hinds @hackygolucky (observer/Node.js Foundation)
+* Anna Henningson (observer/CTC)
+* Michael Dawson (observer/CTC)
 "
 JOINING_INSTRUCTIONS="Uberconference; participants should have the link & numbers, contact me if you don't.
+
+A standing invitation exists for all @nodejs/CTC members who are not also TSC members to attend in observer capacity.
 
 ## Public participation
 
