@@ -24,6 +24,7 @@ INVITEES="\
 * Shigeki Ohtsu @shigeki (CTC)
 * Steven R Loomis @srl295 (observer/IBM/ICU)
 * Myles Borins @TheAlphaNerd (CTC)
+* Sakthipriyan Vairamani @thefourtheye (observer)
 * Trevor Norris @trevnorris (CTC)
 * Rich Trott @Trott (CTC)
 "
