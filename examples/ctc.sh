@@ -23,8 +23,9 @@ INVITEES="\
 * Seth Thompson @s3ththompson (observer/Google)
 * Shigeki Ohtsu @shigeki (CTC)
 * Steven R Loomis @srl295 (observer/IBM/ICU)
+* Michaël Zasso @targos (observer)
 * Myles Borins @TheAlphaNerd (CTC)
-* Sakthipriyan Vairamani @thefourtheye (observer)
+* Sakthipriyan Vairamani @thefourtheye (CTC)
 * Trevor Norris @trevnorris (CTC)
 * Rich Trott @Trott (CTC)
 "
