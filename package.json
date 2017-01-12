@@ -1,6 +1,6 @@
 {
   "name": "make-node-meeting",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Generate a text for a GitHub issue announcing a Node.js working group meeting",
   "main": "index.js",
   "author": "Rod <rod@vagg.org> (http://r.va.gg/)",
