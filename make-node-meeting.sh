@@ -43,7 +43,7 @@ if [ "X${GROUP_NAME}" == "X" ] || [ "X${MEETING_TIME}" == "X" ] || [ "X${INVITEE
 fi
 
 meeting_date=$(TZ=UTC date --date="$MEETING_TIME" --rfc-3339=seconds)
-common_fmt="%a %d-%b-%Y %R"
+common_fmt="%a %d-%b-%Y %R (%I:%M %p)"
 utc_short=$(TZ=UTC date --date="$meeting_date" +"%F")
 
 echo -n "Previous Meeting Minutes Google Docs URL: "
