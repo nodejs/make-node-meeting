@@ -3,7 +3,6 @@ MEETING_TIME="Thursday 8pm"
 INVITEES="\
 * Ben Noordhuis @bnoordhuis (TSC)
 * Bryan Hughes @nebrius (TSC)
-* Chris Dickinson @chrisdickinson (TSC)
 * Colin Ihrig @cjihrig (TSC)
 * Jeremiah Senkpiel @Fishrock123 (TSC)
 * Fedor Indutny @indutny (TSC)
