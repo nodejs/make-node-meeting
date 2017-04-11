@@ -7,7 +7,7 @@ INVITEES="\
 * Сковорода Никита Андреевич @ChALkeR (CTC)
 * Colin Ihrig @cjihrig (CTC)
 * Evan Lucas @evanlucas (CTC)
-* Franziska Hinkelmann @fhinkel (observer/Google)
+* Franziska Hinkelmann @fhinkel (CTC)
 * Jeremiah Senkpiel @Fishrock123 (CTC)
 * Tracy Hinds @hackygolucky (observer/Node.js Foundation)
 * Fedor Indutny @indutny (CTC)
