@@ -5,7 +5,6 @@ INVITEES="\
 * Bryan Hughes @nebrius (CommComm)
 * Emily Rose @emilyrose (CommComm)
 * Gregor Martynus @gr2m (CommComm)
-* James Snell @jasnell (CommComm)
 * Jenn Turner @renrutnnej (observer)
 * JP Wesselink @jpwesselink (CommComm)
 * Mikeal Rogers @mikeal (observer/Node.js Foundation)
