@@ -2,32 +2,35 @@ GROUP_NAME="Core Technical Committee (CTC)"
 MEETING_TIME="Wednesday 8pm"
 INVITEES="\
 * Anna Henningsen @addaleax (CTC)
-* Bradley Meck @bmeck (observer/GoDaddy/TC39)
 * Ben Noordhuis @bnoordhuis (CTC)
 * Сковорода Никита Андреевич @ChALkeR (CTC)
 * Colin Ihrig @cjihrig (CTC)
 * Evan Lucas @evanlucas (CTC)
 * Franziska Hinkelmann @fhinkel (CTC)
 * Jeremiah Senkpiel @Fishrock123 (CTC)
-* Tracy Hinds @hackygolucky (observer/Node.js Foundation)
 * Fedor Indutny @indutny (CTC)
 * James M Snell @jasnell (CTC)
-* Josh Gavant @joshgav (observer/Microsoft)
 * Joyee Cheung @joyeecheung (CTC)
 * Matteo Collina @mcollina (CTC)
 * Michael Dawson @mhdawson (CTC)
 * Julien Gilli @misterdjules (CTC)
-* Mikeal Rogers @mikeal (observer/Node.js Foundation)
 * Brian White @mscdex (CTC)
 * Myles Borins @MylesBorins (CTC)
 * Ali Ijaz Sheikh @ofrobots (CTC)
-* Jenn Turner @renrutnnej (observer/Node.js Foundation)
 * Rod Vagg @rvagg (CTC)
 * Shigeki Ohtsu @shigeki (CTC)
 * Michaël Zasso @targos (CTC)
 * Sakthipriyan Vairamani @thefourtheye (CTC)
 * Trevor Norris @trevnorris (CTC)
 * Rich Trott @Trott (CTC)
+
+### Observers
+* Bradley Meck @bmeck (observer/GoDaddy/TC39)
+* Tracy Hinds @hackygolucky (Node.js Foundation Education Community Manager)
+* Josh Gavant @joshgav (observer/Microsoft)
+* Mikeal Rogers @mikeal (Node.js Foundation Community Manager)
+* Mark Hinkle @mrhinkle (Node.js Foundation Executive Director)
+* Jenn Turner @renrutnnej (Node.js Foundation)
 "
 JOINING_INSTRUCTIONS="Uberconference; participants should have the link & numbers, contact me if you don't.
 
