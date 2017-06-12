@@ -25,9 +25,9 @@ INVITEES="\
 * Rich Trott @Trott (CTC)
 
 ### Observers
-* Bradley Meck @bmeck (observer/GoDaddy/TC39)
+* Bradley Meck @bmeck (GoDaddy/TC39)
 * Tracy Hinds @hackygolucky (Node.js Foundation Education Community Manager)
-* Josh Gavant @joshgav (observer/Microsoft)
+* Josh Gavant @joshgav (Microsoft)
 * Mikeal Rogers @mikeal (Node.js Foundation Community Manager)
 * Mark Hinkle @mrhinkle (Node.js Foundation Executive Director)
 * Jenn Turner @renrutnnej (Node.js Foundation)
