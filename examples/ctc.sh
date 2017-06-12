@@ -30,7 +30,7 @@ INVITEES="\
 * Josh Gavant @joshgav (Microsoft)
 * Mikeal Rogers @mikeal (Node.js Foundation Community Manager)
 * Mark Hinkle @mrhinkle (Node.js Foundation Executive Director)
-* Jenn Turner @renrutnnej (Node.js Foundation)
+* Jenn Turner @renrutnnej (Node.js Foundation Newsletter Curator)
 "
 JOINING_INSTRUCTIONS="Uberconference; participants should have the link & numbers, contact me if you don't.
 
