@@ -28,7 +28,6 @@ INVITEES="\
 * Bradley Meck @bmeck (GoDaddy/TC39)
 * Tracy Hinds @hackygolucky (Node.js Foundation Education Community Manager)
 * Josh Gavant @joshgav (Microsoft)
-* Mikeal Rogers @mikeal (Node.js Foundation Community Manager)
 * Mark Hinkle @mrhinkle (Node.js Foundation Executive Director)
 * Jenn Turner @renrutnnej (Node.js Foundation Newsletter Curator)
 "
