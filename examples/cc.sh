@@ -1,16 +1,19 @@
 GROUP_NAME="Community Committee (CommComm)"
-MEETING_TIME="Thursday 8pm"
-INVITEES="\
+MEETING_TIME="Thursday 8:30pm"
+INVITEES="
 * Ashley Williams @ashleygwilliams (CommComm)
 * Bryan Hughes @nebrius (CommComm)
 * Emily Rose @emilyrose (CommComm)
 * Gregor Martynus @gr2m (CommComm)
 * Jenn Turner @renrutnnej (observer)
+* Joe Sepi @joesepi (observer)
 * JP Wesselink @jpwesselink (CommComm)
-* Mikeal Rogers @mikeal (observer/Node.js Foundation)
 * Myles Borins @MylesBorins (CommComm)
+* Olivia Hugger @pup (observer)
 * Rachel White @rachelnicole (CommComm)
+* Richard Littauer @RichardLitt (observer)
 * Rod Vagg @rvagg (CommComm)
+* Tierney Cyren @bnb (observer)
 * Tracy Hinds @hackygolucky (CommComm)
 * William Kapke @williamkapke (CommComm)
 "
