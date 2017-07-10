@@ -28,8 +28,8 @@ INVITEES="\
 * Bradley Meck @bmeck (GoDaddy/TC39)
 * Tracy Hinds @hackygolucky (Node.js Foundation Education Community Manager)
 * Josh Gavant @joshgav (Microsoft)
+* Kaitlyn Barnard @kbarnard10 (Node.js Foundation Newsletter Curator)
 * Mark Hinkle @mrhinkle (Node.js Foundation Executive Director)
-* Jenn Turner @renrutnnej (Node.js Foundation Newsletter Curator)
 "
 JOINING_INSTRUCTIONS="Uberconference; participants should have the link & numbers, contact me if you don't.
 
