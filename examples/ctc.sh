@@ -13,7 +13,6 @@ INVITEES="\
 * Joyee Cheung @joyeecheung (CTC)
 * Matteo Collina @mcollina (CTC)
 * Michael Dawson @mhdawson (CTC)
-* Julien Gilli @misterdjules (CTC)
 * Brian White @mscdex (CTC)
 * Myles Borins @MylesBorins (CTC)
 * Ali Ijaz Sheikh @ofrobots (CTC)
