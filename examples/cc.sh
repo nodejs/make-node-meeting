@@ -2,27 +2,19 @@ GROUP_NAME="Community Committee (CommComm)"
 MEETING_TIME="Thursday 8:30pm"
 INVITEES="
 * Ashley Williams @ashleygwilliams (CommComm)
-* Bryan Hughes @nebrius (CommComm)
 * Emily Rose @emilyrose (CommComm)
 * Gregor Martynus @gr2m (CommComm)
-* Jenn Turner @renrutnnej (CommComm)
 * Joe Sepi @joesepi (observer)
 * JP Wesselink @jpwesselink (CommComm)
 * Michael Dawson @mhdawson (CommComm)
 * Michelle Garrett @msmichellegar (CommComm)
 * Myles Borins @MylesBorins (CommComm)
-* Olivia Hugger @pup (CommComm)
 * Rachel White @rachelnicole (CommComm)
 * Refael Ackermann @refack (observer)
-* Richard Littauer @RichardLitt (CommComm)
 * Rod Vagg @rvagg (CommComm)
 * Tierney Cyren @bnb (CommComm)
 * Tracy Hinds @hackygolucky (CommComm)
 * William Kapke @williamkapke (CommComm)
-* Refael Ackermann @refack (observer)
-* Mike MacCana @mikemaccana (observer)
-* Sota Yamashtia @sotayamashita (observer)
-* Frederic Hemberger @fhemberger (observer)
 * Oz Haven @therebelrobot (observer)
 "
 JOINING_INSTRUCTIONS="Google Hangouts; link will be posted here shortly before the meeting starts.
