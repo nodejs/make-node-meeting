@@ -14,7 +14,7 @@ INVITEES="
 * Tierney Cyren (@bnb - CommComm)
 * Tracy Hinds (@hackygolucky - CommComm)
 * William Kapke (@williamkapke - CommComm)
-* Oz Haven @therebelrobot (observer)
+* Oz Haven (@therebelrobot - observer)
 * Refael Ackermann (@refack - observer)
 * Manil (@chowdhurian - observer)
 * @ParidelPooya (Pooya Paridel - observer)
