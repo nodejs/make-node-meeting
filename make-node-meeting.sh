@@ -67,6 +67,7 @@ Node.js Foundation $GROUP_NAME Meeting $utc_short
 | US / Mountain | $(TZ=US/Mountain date --date="$meeting_date" +"$common_fmt") |
 | US / Central  | $(TZ=US/Central date --date="$meeting_date" +"$common_fmt") |
 | US / Eastern  | $(TZ=US/Eastern date --date="$meeting_date" +"$common_fmt") |
+| London        | $(TZ=Europe/London date --date="$meeting_date" +"$common_fmt") |
 | Amsterdam     | $(TZ=Europe/Amsterdam date --date="$meeting_date" +"$common_fmt") |
 | Moscow        | $(TZ=Europe/Moscow date --date="$meeting_date" +"$common_fmt") |
 | Chennai       | $(TZ=Asia/Kolkata date --date="$meeting_date" +"$common_fmt") |
