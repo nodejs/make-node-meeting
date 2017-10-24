@@ -28,6 +28,7 @@ INVITEES="
 * @Maurice-Hayward (Maurice Hayward - observer)
 * @dshaw (Dan Shaw - observer)
 * @mikehostetler (Mike Hostetler - observer)
+* @sarahkconway (Sarah Conway - observer)
 "
 JOINING_INSTRUCTIONS="Google Hangouts; link will be posted here shortly before the meeting starts.
 
