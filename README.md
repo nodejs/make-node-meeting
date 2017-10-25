@@ -4,6 +4,40 @@
 
 [![NPM](https://nodei.co/npm/make-node-meeting.png)](https://nodei.co/npm/make-node-meeting/)
 
+## Up and Running: Installation and Usage
+
+To get started with `make-node-meeting` install the tool globally:
+
+```bash
+npm install make-node-meeting -g
+```
+
+Next, make sure `coreutils` is installed (macOS):
+```
+brew install coreutils
+```
+
+Once the dependencies are installed, create a new directory to hold the config for the meeting you want to generate:
+```
+mkdir ~/.make-node-meeting
+```
+
+Create a new `.sh` file in this directory to hold your meeting configuration:
+```
+touch ~/.make-node-meeting/<meetingname>.sh # Where <meetingname> is the name of the group or WG you want to create a meeting for.
+```
+
+Once this file is created, open it in your editor of choice add a configuration. There are several [example configurations](./exmaples) in this repo.
+
+When the configuration is added, run the following command:
+```
+make-node-meeting <meetingname> # Where <meetingname> is the name of the group or WG you want to create a meeting for
+```
+
+Fill out the questions it asks as appropriate for your specific case. Once complete, `make-node-meeting` will output the Markdown source into your terminal - copy and paste it into your issue and you should be ready to go!
+
+
+## Configuration
 Given a working group "code", produce Markdown-formatted issue text for that working group. The code is used to load a configuration file as `~/.make-node-meeting/code.sh` which contains settings required for customising the text.
 
 The configuration file must contain:
