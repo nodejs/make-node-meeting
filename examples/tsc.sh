@@ -1,26 +1,29 @@
 GROUP_NAME="Technical Steering Committee (TSC)"
 MEETING_TIME="Thursday 8pm"
 INVITEES="\
-* Ben Noordhuis @bnoordhuis (TSC)
-* Bryan Hughes @nebrius (TSC)
+* Anna Henningsen @addaleax (TSC)
+* Сковорода Никита Андреевич @ChALkeR (TSC)
 * Colin Ihrig @cjihrig (TSC)
+* Daniel Bevenius @danbev (TSC)
+* Evan Lucas @evanlucas (TSC)
+* Franziska Hinkelmann @fhinkel (TSC)
 * Jeremiah Senkpiel @Fishrock123 (TSC)
 * Fedor Indutny @indutny (TSC)
 * James M Snell @jasnell (TSC)
-* Josh Gavant @joshgav (observer/Microsoft)
-* Mikeal Rogers @mikeal (observer/Node.js Foundation)
+* Josh Gavant @joshgav (TSC)
+* Joyee Cheung @joyeecheung (TSC)
+* Matteo Collina @mcollina (TSC)
+* Michael Dawson @mhdawson (TSC)
 * Brian White @mscdex (TSC)
-* Bert Belder @piscisaureus (TSC)
+* Myles Borins @MylesBorins (TSC)
+* Ali Ijaz Sheikh @ofrobots (TSC)
 * Rod Vagg @rvagg (TSC)
-* Shigeki Ohtsu @shigeki (TSC)
+* Michaël Zasso @targos (TSC)
+* Sakthipriyan Vairamani @thefourtheye (TSC)
 * Trevor Norris @trevnorris (TSC)
-* William Kapke @williamkapke (observer/Individual Member Director)
-* Ashley Williams @ashleygwilliams (observer/Individual Member Director)
-* Jenn Turner @renrutnnej (observer)
-* Tracy Hinds @hackygolucky (observer/Node.js Foundation)
-* Anna Henningson (observer/CTC)
-* Michael Dawson (observer/CTC)
+* Rich Trott @Trott (TSC)
 "
+
 JOINING_INSTRUCTIONS="Uberconference; participants should have the link & numbers, contact me if you don't.
 
 A standing invitation exists for all @nodejs/CTC members who are not also TSC members to attend in observer capacity.
