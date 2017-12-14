@@ -23,7 +23,6 @@ INVITEES="\
 * Trevor Norris @trevnorris (TSC)
 * Rich Trott @Trott (TSC)
 "
-
 JOINING_INSTRUCTIONS="Uberconference; participants should have the link & numbers, contact me if you don't.
 
 A standing invitation exists for all @nodejs/CTC members who are not also TSC members to attend in observer capacity.
