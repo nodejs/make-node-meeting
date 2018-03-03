@@ -27,7 +27,7 @@ Create a new `.sh` file in this directory to hold your meeting configuration:
 touch ~/.make-node-meeting/<meetingname>.sh # Where <meetingname> is the name of the group or WG you want to create a meeting for.
 ```
 
-Once this file is created, open it in your editor of choice add a configuration. There are several [example configurations](./exmaples) in this repo.
+Once this file is created, open it in your editor of choice add a configuration. There are several [example configurations](./examples) in this repo.
 
 When the configuration is added, run the following command:
 ```
