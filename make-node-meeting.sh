@@ -42,6 +42,14 @@ if [ "X${GROUP_NAME}" == "X" ] || [ "X${MEETING_TIME}" == "X" ] || [ "X${INVITEE
   print_usage_and_exit
 fi
 
+if [ "X${GITHUB_ORG}" == "X" ]; then
+  GITHUB_ORG=nodejs
+fi
+
+if [ "X${HOST}" == "X" ]; then
+  HOST="Node.js Foundation"
+fi
+
 meeting_date=$(TZ=UTC date --date="$MEETING_TIME" --rfc-3339=seconds)
 common_fmt="%a %d-%b-%Y %R (%I:%M %p)"
 utc_short=$(TZ=UTC date --date="$meeting_date" +"%F")
@@ -53,7 +61,7 @@ read curr_doc_url
 
 cat << EOF
 
-Node.js Foundation $GROUP_NAME Meeting $utc_short
+$HOST $GROUP_NAME Meeting $utc_short
 
 --------------------------------------
 
@@ -86,9 +94,9 @@ Or in your local time:
 
 ## Agenda
 
-Extracted from **${GROUP_CODE}-agenda** labelled issues and pull requests from the **nodejs org** prior to the meeting.
+Extracted from **${GROUP_CODE}-agenda** labelled issues and pull requests from the **${GITHUB_ORG} org** prior to the meeting.
 
-`node ${__dirname}/node-meeting-agenda.js ${GROUP_CODE}-agenda`
+`node ${__dirname}/node-meeting-agenda.js ${GROUP_CODE}-agenda ${GITHUB_ORG}`
 
 ## Invited
 
@@ -96,7 +104,7 @@ $INVITEES
 
 ## Notes
 
-The agenda comes from issues labelled with \`${GROUP_CODE}-agenda\` across **all of the repositories in the nodejs org**. Please label any additional issues that should be on the agenda before the meeting starts.
+The agenda comes from issues labelled with \`${GROUP_CODE}-agenda\` across **all of the repositories in the ${GITHUB_ORG} org**. Please label any additional issues that should be on the agenda before the meeting starts.
 
 ## Joining the meeting
 

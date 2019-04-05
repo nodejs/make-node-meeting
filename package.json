@@ -9,7 +9,7 @@
     "make-node-meeting": "./make-node-meeting.sh"
   },
   "dependencies": {
-    "node-meeting-agenda": "~1.0.4"
+    "node-meeting-agenda": "^1.0.4"
   },
   "repository": {
     "type": "git",

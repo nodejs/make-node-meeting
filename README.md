@@ -49,6 +49,13 @@ INVITEES="Markdown list of invitees"
 JOINING_INSTRUCTIONS="Specific instructions on how to join"
 ```
 
+The configuration file can optionally contain:
+
+```sh
+GITHUB_ORG="openjs-foundation"
+HOST="OpenJS Foundation"
+```
+
 The `MEETING_TIME` is used to work out _when the next meeting should occur_ and print that date and time accordingly, with translations to various world timezomes.
 
 For example, `~/.make-node-meeting/ctc.sh` might contain:
