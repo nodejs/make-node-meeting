@@ -47,7 +47,7 @@ if [ "X${GITHUB_ORG}" == "X" ]; then
 fi
 
 if [ "X${HOST}" == "X" ]; then
-  HOST="Node.js Foundation"
+  HOST="Node.js "
 fi
 
 meeting_date=$(TZ=UTC date --date="$MEETING_TIME" --rfc-3339=seconds)
