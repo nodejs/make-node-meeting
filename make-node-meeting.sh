@@ -84,7 +84,7 @@ $HOST $GROUP_NAME Meeting $utc_short
 | Sydney        | $(TZ=Australia/Sydney date --date="$meeting_date" +"$common_fmt") |
 
 Or in your local time:
-* http://www.timeanddate.com/worldclock/fixedtime.html?msg=Node.js+Foundation+$(node -p 'encodeURIComponent("'"${GROUP_NAME}"'")')+Meeting+${utc_short}&iso=$(TZ=UTC date --date="$meeting_date" +"%Y%m%dT%H")
+* http://www.timeanddate.com/worldclock/fixedtime.html?msg=Node.js+Foundation+$(node -p 'encodeURIComponent("'"${GROUP_NAME}"'")')+Meeting+${utc_short}&iso=$(TZ=UTC date --date="$meeting_date" +"%Y%m%dT%H%M")
 * or http://www.wolframalpha.com/input/?i=$(TZ=UTC date --date="$meeting_date" +"%I%p")+UTC%2C+$(TZ=UTC date --date="$meeting_date" +"%b+%d%%2C+%Y")+in+local+time
 
 ## Links
