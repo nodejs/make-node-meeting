@@ -8,6 +8,9 @@
   "bin": {
     "make-node-meeting": "./make-node-meeting.sh"
   },
+  "scripts": {
+    "test": "shellcheck *.sh"
+  },
   "dependencies": {
     "node-meeting-agenda": "^1.1.0"
   },
@@ -15,5 +18,8 @@
     "type": "git",
     "url": "https://github.com/rvagg/make-node-meeting.git"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "devDependencies": {
+    "shellcheck": "^1.1.0"
+  }
 }
