@@ -4,7 +4,7 @@
 
 # if running OSX with coreutils installed
 PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
-__dirname="$(CDPATH= cd "$(dirname "$(realpath ${BASH_SOURCE[0]})")" && pwd)"
+__dirname="$(CDPATH='' cd "$(dirname "$(realpath "${BASH_SOURCE[0]}")")" && pwd)"
 
 
 function print_usage_and_exit {
@@ -36,7 +36,8 @@ fi
 
 GROUP_CODE=$1
 
-. ~/.make-node-meeting/${GROUP_CODE}.sh
+# shellcheck source=/dev/null
+. ~/.make-node-meeting/"${GROUP_CODE}".sh
 
 if [ "X${GROUP_NAME}" == "X" ] || [ "X${MEETING_TIME}" == "X" ] || [ "X${INVITEES}" == "X" ] || [ "X${JOINING_INSTRUCTIONS}" == "X" ]; then
   print_usage_and_exit
@@ -55,9 +56,9 @@ common_fmt="%a %d-%b-%Y %R (%I:%M %p)"
 utc_short=$(TZ=UTC date --date="$meeting_date" +"%F")
 
 echo -n "Previous Meeting Minutes Google Docs URL: "
-read prev_doc_url
+read -r prev_doc_url
 echo -n "This Meeting Minutes Google Docs URL: "
-read curr_doc_url
+read -r curr_doc_url
 
 cat << EOF
 
@@ -97,7 +98,7 @@ Or in your local time:
 
 Extracted from **${GROUP_CODE}-agenda** labelled issues and pull requests from the **${GITHUB_ORG} org** prior to the meeting.
 
-`node ${__dirname}/node-meeting-agenda.js ${GROUP_CODE}-agenda ${GITHUB_ORG}`
+$(node "${__dirname}"/node-meeting-agenda.js "${GROUP_CODE}"-agenda ${GITHUB_ORG})
 
 ## Invited
 
